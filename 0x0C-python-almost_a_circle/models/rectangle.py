@@ -1,7 +1,5 @@
 #!/usr/bin/python3
-# rectangle.py
-# Benjamin Alfayo
-"""This file will define a rectangle class."""
+"""Defines an exact rectangle class."""
 from models.base import Base
 
 
